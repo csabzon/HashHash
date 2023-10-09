@@ -3,7 +3,7 @@ import java.util.HashMap;
 public class HashHash {
     public static void main(String[] args) {
 
-
+//nézzűkk ezt a verziót
         HashMap<String, Integer> hmap = new HashMap<>();
         hmap.put("hetfo", 1);
         hmap.put("kedd", 2);
